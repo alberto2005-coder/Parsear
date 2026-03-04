@@ -1,0 +1,14 @@
+[
+  {
+    "id": 101,
+    "nombre": "Ana",
+    "departamento": "Ventas",
+    "activa": true
+  },
+  {
+    "id": 102,
+    "nombre": "Luis",
+    "departamento": "IT",
+    "activa": false
+  }
+]

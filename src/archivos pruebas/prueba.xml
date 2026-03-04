@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuracion>
+    <servidor>192.168.1.1</servidor>
+    <puerto>8080</puerto>
+    <modo>produccion</modo>
+    <usuario>admin</usuario>
+</configuracion>
